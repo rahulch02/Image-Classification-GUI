@@ -23,8 +23,8 @@ An Image Classification Graphical User Interface based on python programming lan
 ## Setup Instructions
 1) Clone the repository
 ```python
-$ git clone https://github.com/kasai2210/image_classification_gui.git
-$ cd image_classification_gui
+$ git clone https://github.com/rahulch02/Image-Classification-GUI.git
+$ cd Image-Classification-GUI
 ```
 
 2) Install the dependencies
