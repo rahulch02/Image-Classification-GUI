@@ -1,18 +1,18 @@
 # Image-Classification-GUI
 
 An Image Classification Graphical User Interface based on python programming language libraries, which trains upon labelled images of CIFAR-10 dataset, and classifies unlabelled images into 10 categories:
-    0:'aeroplane'
-    1:'automobile'
-    2:'bird'
-    3:'cat'
-    4:'deer'
-    5:'dog'
-    6:'frog'
-    7:'horse'
-    8:'ship'
-    9:'truck'
+    0) 'aeroplane'
+    1) 'automobile'
+    2) 'bird'
+    3) 'cat'
+    4) 'deer'
+    5) 'dog'
+    6) 'frog'
+    7) 'horse'
+    8) 'ship'
+    9) 'truck'
     
-##Required Modules:
+## Required Modules:
 1) Python 3
 2) Tensorflow
 3) Keras
