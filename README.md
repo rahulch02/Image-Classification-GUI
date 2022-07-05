@@ -34,5 +34,5 @@ $ pip install -r requirements.txt
 ```
 
 ## Testing on examples
-1) Click on upload image, upload an image of your choice
+1) Click on upload image, upload an image of your choice, or choose any of the test images already provided.
 2) Click the classify button and ENJOY!!!
