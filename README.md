@@ -1,3 +1,7 @@
+# Demonstration:
+
+![Image-classification-project](https://user-images.githubusercontent.com/73461681/185755281-213764a3-6143-4e73-b56e-1c6029d9e629.gif)
+
 # Image-Classification-GUI
 
 An Image Classification Graphical User Interface based on python programming language libraries, which trains upon labelled images of CIFAR-10 dataset, and classifies unlabelled images into 10 categories:
